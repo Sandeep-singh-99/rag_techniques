@@ -110,3 +110,5 @@ huggingface/
 .transformers/
 
 data/
+
+chroma_db/
